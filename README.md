@@ -11,3 +11,5 @@ Foi assim que eles fizeram:
 * **Ajuste do Equilíbrio**: Uma parte crucial do trabalho foi o desenvolvimento de métodos para ajustar o equilíbrio entre manter o conteúdo original da imagem e incorporar o estilo artístico desejado. Isso foi alcançado através de um processo de otimização, que refina a imagem até atingir a mistura ideal entre o conteúdo fotográfico e a influência artística.
 
 Na época da publicação, o trabalho foi uma revelação. Mostrou que as redes neurais não apenas poderiam reconhecer imagens, mas também podiam ser criativas de uma maneira que antes era exclusivamente humana. Esse estudo abriu caminho para as ferramentas que temos hoje, como DALL-E e Midjourney, que continuam a explorar e expandir as fronteiras da criatividade assistida por IA. Ao olhar para trás, vemos como esse trabalho foi fundamental para o desenvolvimento na área de arte gerada por IA, marcando um ponto de virada importante na forma como percebemos o potencial criativo das máquinas.
+
+pit_brad.jpg
