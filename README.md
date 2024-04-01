@@ -12,4 +12,4 @@ Foi assim que eles fizeram:
 
 Na época da publicação, o trabalho foi uma revelação. Mostrou que as redes neurais não apenas poderiam reconhecer imagens, mas também podiam ser criativas de uma maneira que antes era exclusivamente humana. Esse estudo abriu caminho para as ferramentas que temos hoje, como DALL-E e Midjourney, que continuam a explorar e expandir as fronteiras da criatividade assistida por IA. Ao olhar para trás, vemos como esse trabalho foi fundamental para o desenvolvimento na área de arte gerada por IA, marcando um ponto de virada importante na forma como percebemos o potencial criativo das máquinas.
 
-![Texto Alternativo](pit_brad.jpg)
+![Texto Alternativo](street.jpg)
