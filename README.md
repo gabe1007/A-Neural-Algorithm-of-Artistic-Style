@@ -1,6 +1,6 @@
 # A Neural Algorithm of Artistic Style
 
-Este notebook é uma simples implementação do artigo **A Neural Algorithm of Artistic Style**, onde alterando as camadas da rede neural VGG19, é possível transfeir o estilo de uma imagem para outra. Quando o artigo foi publicado, ele representou um avanço significativo na junção de inteligência artificial e arte. Naquela época, a ideia de uma máquina ser capaz de criar arte era muito mais complicada do que hoje, com as capacidades atuais do DALL-E, Midjourney ou Vision Transformers.
+Este notebook é uma simples implementação do artigo **A Neural Algorithm of Artistic Style**, onde alterando as camadas da rede neural VGG19, é possível transferir o estilo de uma imagem para outra. Quando o artigo foi publicado, ele representou um avanço significativo na junção de inteligência artificial e arte. Naquela época, a ideia de uma máquina ser capaz de criar arte era muito mais complicada do que hoje, com as capacidades atuais do DALL-E, Midjourney ou Vision Transformers.
 
 Foi assim que eles fizeram:
 
